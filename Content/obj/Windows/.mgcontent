@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>G:/HND Games/Year 2/OOP/ID-efender-OOP/ID-efender-OOP/Content/Bull.png</File>
+    <File>G:/HND Games/Year 2/OOP/ID-efender-OOP/ID-efender-OOP/Content/Civs/Civ1.png</File>
+    <File>G:/HND Games/Year 2/OOP/ID-efender-OOP/ID-efender-OOP/Content/Civs/Civ2.png</File>
+    <File>G:/HND Games/Year 2/OOP/ID-efender-OOP/ID-efender-OOP/Content/debug.spritefont</File>
+    <File>G:/HND Games/Year 2/OOP/ID-efender-OOP/ID-efender-OOP/Content/Enemy/Abducter1.png</File>
+    <File>G:/HND Games/Year 2/OOP/ID-efender-OOP/ID-efender-OOP/Content/Hud_Bar.png</File>
+    <File>G:/HND Games/Year 2/OOP/ID-efender-OOP/ID-efender-OOP/Content/IngameFont.spritefont</File>
+    <File>G:/HND Games/Year 2/OOP/ID-efender-OOP/ID-efender-OOP/Content/Keys/A.png</File>
+    <File>G:/HND Games/Year 2/OOP/ID-efender-OOP/ID-efender-OOP/Content/Keys/Arrow.png</File>
+    <File>G:/HND Games/Year 2/OOP/ID-efender-OOP/ID-efender-OOP/Content/Keys/B.png</File>
+    <File>G:/HND Games/Year 2/OOP/ID-efender-OOP/ID-efender-OOP/Content/Keys/D.png</File>
+    <File>G:/HND Games/Year 2/OOP/ID-efender-OOP/ID-efender-OOP/Content/Keys/Enter.png</File>
+    <File>G:/HND Games/Year 2/OOP/ID-efender-OOP/ID-efender-OOP/Content/Keys/S.png</File>
+    <File>G:/HND Games/Year 2/OOP/ID-efender-OOP/ID-efender-OOP/Content/Keys/W.png</File>
+    <File>G:/HND Games/Year 2/OOP/ID-efender-OOP/ID-efender-OOP/Content/Menu.spritefont</File>
+    <File>G:/HND Games/Year 2/OOP/ID-efender-OOP/ID-efender-OOP/Content/Mountain.png</File>
+    <File>G:/HND Games/Year 2/OOP/ID-efender-OOP/ID-efender-OOP/Content/Pixel.png</File>
+    <File>G:/HND Games/Year 2/OOP/ID-efender-OOP/ID-efender-OOP/Content/Player.png</File>
+    <File>G:/HND Games/Year 2/OOP/ID-efender-OOP/ID-efender-OOP/Content/Sky.png</File>
+    <File>G:/HND Games/Year 2/OOP/ID-efender-OOP/ID-efender-OOP/Content/Sound/blaster.wav</File>
+    <File>G:/HND Games/Year 2/OOP/ID-efender-OOP/ID-efender-OOP/Content/Sound/Explosion_Sound.wav</File>
+    <File>G:/HND Games/Year 2/OOP/ID-efender-OOP/ID-efender-OOP/Content/Spritesheet/Explosion.png</File>
+    <File>G:/HND Games/Year 2/OOP/ID-efender-OOP/ID-efender-OOP/Content/Turret/Turret0.png</File>
+    <File>G:/HND Games/Year 2/OOP/ID-efender-OOP/ID-efender-OOP/Content/Turret/Turret1.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

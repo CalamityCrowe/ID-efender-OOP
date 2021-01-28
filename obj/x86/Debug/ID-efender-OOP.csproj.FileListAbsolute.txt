@@ -1,0 +1,195 @@
+D:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Sky.xnb
+D:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Bull.xnb
+D:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Player.xnb
+D:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\HUD-Bar.xnb
+D:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Person.xnb
+D:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\ID-efender-OOP.exe
+D:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\ID-efender-OOP.pdb
+D:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\SharpDX.dll
+D:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\SharpDX.xml
+D:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\obj\x86\Debug\ID-efender-OOP.csprojAssemblyReference.cache
+D:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\obj\x86\Debug\ID-efender-OOP.csproj.CoreCompileInputs.cache
+D:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\obj\x86\Debug\ID-efender-OOP.csproj.CopyComplete
+D:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\obj\x86\Debug\ID-efender-OOP.exe
+D:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\obj\x86\Debug\ID-efender-OOP.pdb
+G:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Sky.xnb
+G:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Bull.xnb
+G:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Player.xnb
+G:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\ID-efender-OOP.exe
+G:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\ID-efender-OOP.pdb
+G:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\MonoGame.Framework.dll
+G:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+G:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\SharpDX.dll
+G:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+G:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+G:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+G:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+G:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\SharpDX.XInput.dll
+G:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\MonoGame.Framework.xml
+G:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+G:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\SharpDX.xml
+G:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+G:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+G:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+G:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+G:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\SharpDX.XInput.xml
+G:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\obj\x86\Debug\ID-efender-OOP.csprojAssemblyReference.cache
+G:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\obj\x86\Debug\ID-efender-OOP.csproj.CoreCompileInputs.cache
+G:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\obj\x86\Debug\ID-efender-OOP.csproj.CopyComplete
+G:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\obj\x86\Debug\ID-efender-OOP.exe
+G:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\obj\x86\Debug\ID-efender-OOP.pdb
+G:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Pixel.xnb
+D:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Content\Sky.xnb
+D:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Content\Bull.xnb
+D:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Content\Player.xnb
+D:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Content\HUD-Bar.xnb
+D:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Content\Person.xnb
+D:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Content\Pixel.xnb
+D:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Pixel.xnb
+D:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\debug.xnb
+F:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Content\Sky.xnb
+F:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Content\Bull.xnb
+F:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Content\Player.xnb
+F:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Content\HUD-Bar.xnb
+F:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Content\Pixel.xnb
+F:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Bull.xnb
+F:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Pixel.xnb
+F:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Player.xnb
+F:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Sky.xnb
+F:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\debug.xnb
+F:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\ID-efender-OOP.exe
+F:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\ID-efender-OOP.pdb
+F:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\MonoGame.Framework.dll
+F:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+F:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\SharpDX.dll
+F:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+F:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+F:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+F:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+F:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\SharpDX.XInput.dll
+F:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+F:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\MonoGame.Framework.xml
+F:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+F:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\SharpDX.xml
+F:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+F:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+F:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+F:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+F:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\SharpDX.XInput.xml
+F:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+F:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\obj\x86\Debug\ID-efender-OOP.csprojAssemblyReference.cache
+F:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\obj\x86\Debug\ID-efender-OOP.csproj.CoreCompileInputs.cache
+F:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\obj\x86\Debug\ID-efender-OOP.csproj.CopyComplete
+F:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\obj\x86\Debug\ID-efender-OOP.exe
+F:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\obj\x86\Debug\ID-efender-OOP.pdb
+G:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\debug.xnb
+F:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Content\debug.xnb
+F:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Mountain.xnb
+D:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Content\debug.xnb
+D:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Mountain.xnb
+D:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Explosion.xnb
+D:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Enemy.xnb
+D:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\blaster.xnb
+D:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Explosion_Sound.xnb
+G:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Mountain.xnb
+G:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Turret\Turret0.xnb
+G:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Turret\Turret1.xnb
+G:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Spritesheet\Explosion.xnb
+G:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Sound\blaster.xnb
+G:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Sound\Explosion_Sound.xnb
+F:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Content\Turret\Turret0.xnb
+F:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Content\Turret\Turret1.xnb
+F:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Content\Spritesheet\Explosion.xnb
+F:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Content\Sound\blaster.xnb
+F:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Content\Sound\Explosion_Sound.xnb
+F:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Sound\blaster.xnb
+F:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Sound\Explosion_Sound.xnb
+F:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Spritesheet\Explosion.xnb
+F:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Turret\Turret0.xnb
+F:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Turret\Turret1.xnb
+F:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Enemy\Abducter1.xnb
+F:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Content\Mountain.xnb
+F:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Enemy.xnb
+G:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Enemy\Abducter1.xnb
+G:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\IngameFont.xnb
+F:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Content\Enemy\Abducter1.xnb
+F:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Content\IngameFont.xnb
+F:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\IngameFont.xnb
+F:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Menu.xnb
+F:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Hud_Bar.xnb
+F:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Civs\Civ1.xnb
+F:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Civs\Civ2.xnb
+G:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Keys\A.xnb
+G:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Keys\Arrow.xnb
+G:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Keys\B.xnb
+G:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Keys\D.xnb
+G:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Keys\Enter.xnb
+G:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Keys\S.xnb
+G:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Keys\W.xnb
+G:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Civs\Civ1.xnb
+G:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Civs\Civ2.xnb
+G:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Hud_Bar.xnb
+G:\HND Games\Year 2\OOP\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Menu.xnb
+F:\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Keys\A.xnb
+F:\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Keys\Arrow.xnb
+F:\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Keys\B.xnb
+F:\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Keys\D.xnb
+F:\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Keys\Enter.xnb
+F:\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Keys\S.xnb
+F:\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Keys\W.xnb
+F:\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Spritesheet\Explosion.xnb
+F:\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Civs\Civ1.xnb
+F:\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Civs\Civ2.xnb
+F:\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Turret\Turret1.xnb
+F:\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Turret\Turret0.xnb
+F:\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Sound\blaster.xnb
+F:\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Sound\Explosion_Sound.xnb
+F:\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Enemy\Abducter1.xnb
+F:\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Sky.xnb
+F:\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Bull.xnb
+F:\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Player.xnb
+F:\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Pixel.xnb
+F:\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\debug.xnb
+F:\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Mountain.xnb
+F:\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\IngameFont.xnb
+F:\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Hud_Bar.xnb
+F:\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\Content\Menu.xnb
+F:\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\ID-efender-OOP.exe
+F:\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\ID-efender-OOP.pdb
+F:\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\MonoGame.Framework.dll
+F:\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+F:\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\SharpDX.dll
+F:\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+F:\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+F:\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+F:\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+F:\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\SharpDX.XInput.dll
+F:\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\MonoGame.Framework.xml
+F:\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+F:\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\SharpDX.xml
+F:\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+F:\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+F:\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+F:\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+F:\ID-efender-OOP\ID-efender-OOP\bin\Windows\x86\Debug\SharpDX.XInput.xml
+F:\ID-efender-OOP\ID-efender-OOP\obj\x86\Debug\ID-efender-OOP.csprojAssemblyReference.cache
+F:\ID-efender-OOP\ID-efender-OOP\obj\x86\Debug\ID-efender-OOP.csproj.CoreCompileInputs.cache
+F:\ID-efender-OOP\ID-efender-OOP\obj\x86\Debug\ID-efender-OOP.csproj.CopyComplete
+F:\ID-efender-OOP\ID-efender-OOP\obj\x86\Debug\ID-efender-OOP.exe
+F:\ID-efender-OOP\ID-efender-OOP\obj\x86\Debug\ID-efender-OOP.pdb

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>G:/HND Games/Year 2/OOP/ID-efender-OOP/ID-efender-OOP/Content/debug.spritefont</SourceFile>
+  <SourceTime>2019-11-07T09:25:10+00:00</SourceTime>
+  <DestFile>G:/HND Games/Year 2/OOP/ID-efender-OOP/ID-efender-OOP/Content/bin/Windows/debug.xnb</DestFile>
+  <DestTime>2019-11-30T17:13:22+00:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-12-08T16:35:54+00:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-12-08T16:35:54+00:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

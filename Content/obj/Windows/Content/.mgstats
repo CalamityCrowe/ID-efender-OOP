@@ -1,0 +1,25 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"F:/ID-efender-OOP/ID-efender-OOP/Content/Bull.png","F:/ID-efender-OOP/ID-efender-OOP/Content/bin/Windows/Content/Bull.xnb","TextureProcessor","Texture2DContent",1603,485,0.2174125
+"F:/ID-efender-OOP/ID-efender-OOP/Content/Civs/Civ1.png","F:/ID-efender-OOP/ID-efender-OOP/Content/bin/Windows/Content/Civs/Civ1.xnb","TextureProcessor","Texture2DContent",2456,9877,0.0151123
+"F:/ID-efender-OOP/ID-efender-OOP/Content/Civs/Civ2.png","F:/ID-efender-OOP/ID-efender-OOP/Content/bin/Windows/Content/Civs/Civ2.xnb","TextureProcessor","Texture2DContent",2098,9877,0.0086187
+"F:/ID-efender-OOP/ID-efender-OOP/Content/debug.spritefont","F:/ID-efender-OOP/ID-efender-OOP/Content/bin/Windows/Content/debug.xnb","FontDescriptionProcessor","SpriteFontContent",2007,13329,0.1901479
+"F:/ID-efender-OOP/ID-efender-OOP/Content/Enemy/Abducter1.png","F:/ID-efender-OOP/ID-efender-OOP/Content/bin/Windows/Content/Enemy/Abducter1.xnb","TextureProcessor","Texture2DContent",9917,36185,0.0156569
+"F:/ID-efender-OOP/ID-efender-OOP/Content/Hud_Bar.png","F:/ID-efender-OOP/ID-efender-OOP/Content/bin/Windows/Content/Hud_Bar.xnb","TextureProcessor","Texture2DContent",70988,663637,0.1255404
+"F:/ID-efender-OOP/ID-efender-OOP/Content/IngameFont.spritefont","F:/ID-efender-OOP/ID-efender-OOP/Content/bin/Windows/Content/IngameFont.xnb","FontDescriptionProcessor","SpriteFontContent",2005,37905,0.0584932
+"F:/ID-efender-OOP/ID-efender-OOP/Content/Keys/A.png","F:/ID-efender-OOP/ID-efender-OOP/Content/bin/Windows/Content/Keys/A.xnb","TextureProcessor","Texture2DContent",1003,40085,0.0158606
+"F:/ID-efender-OOP/ID-efender-OOP/Content/Keys/Arrow.png","F:/ID-efender-OOP/ID-efender-OOP/Content/bin/Windows/Content/Keys/Arrow.xnb","TextureProcessor","Texture2DContent",2340,160085,0.0173088
+"F:/ID-efender-OOP/ID-efender-OOP/Content/Keys/B.png","F:/ID-efender-OOP/ID-efender-OOP/Content/bin/Windows/Content/Keys/B.xnb","TextureProcessor","Texture2DContent",1983,160085,0.0199845
+"F:/ID-efender-OOP/ID-efender-OOP/Content/Keys/D.png","F:/ID-efender-OOP/ID-efender-OOP/Content/bin/Windows/Content/Keys/D.xnb","TextureProcessor","Texture2DContent",1940,160085,0.0182407
+"F:/ID-efender-OOP/ID-efender-OOP/Content/Keys/Enter.png","F:/ID-efender-OOP/ID-efender-OOP/Content/bin/Windows/Content/Keys/Enter.xnb","TextureProcessor","Texture2DContent",2088,152181,0.0287837
+"F:/ID-efender-OOP/ID-efender-OOP/Content/Keys/S.png","F:/ID-efender-OOP/ID-efender-OOP/Content/bin/Windows/Content/Keys/S.xnb","TextureProcessor","Texture2DContent",2193,160085,0.0172939
+"F:/ID-efender-OOP/ID-efender-OOP/Content/Keys/W.png","F:/ID-efender-OOP/ID-efender-OOP/Content/bin/Windows/Content/Keys/W.xnb","TextureProcessor","Texture2DContent",2372,160085,0.0290417
+"F:/ID-efender-OOP/ID-efender-OOP/Content/Menu.spritefont","F:/ID-efender-OOP/ID-efender-OOP/Content/bin/Windows/Content/Menu.xnb","FontDescriptionProcessor","SpriteFontContent",2005,70673,0.0708469
+"F:/ID-efender-OOP/ID-efender-OOP/Content/Mountain.png","F:/ID-efender-OOP/ID-efender-OOP/Content/bin/Windows/Content/Mountain.xnb","TextureProcessor","Texture2DContent",30233,8294485,0.5163957
+"F:/ID-efender-OOP/ID-efender-OOP/Content/Pixel.png","F:/ID-efender-OOP/ID-efender-OOP/Content/bin/Windows/Content/Pixel.xnb","TextureProcessor","Texture2DContent",119,89,0.0119886
+"F:/ID-efender-OOP/ID-efender-OOP/Content/Player.png","F:/ID-efender-OOP/ID-efender-OOP/Content/bin/Windows/Content/Player.xnb","TextureProcessor","Texture2DContent",5157,12885,0.0094823
+"F:/ID-efender-OOP/ID-efender-OOP/Content/Sky.png","F:/ID-efender-OOP/ID-efender-OOP/Content/bin/Windows/Content/Sky.xnb","TextureProcessor","Texture2DContent",100598,8294485,0.4652451
+"F:/ID-efender-OOP/ID-efender-OOP/Content/Sound/blaster.wav","F:/ID-efender-OOP/ID-efender-OOP/Content/bin/Windows/Content/Sound/blaster.xnb","SoundEffectProcessor","SoundEffectContent",8876,8937,6.384626
+"F:/ID-efender-OOP/ID-efender-OOP/Content/Sound/Explosion_Sound.wav","F:/ID-efender-OOP/ID-efender-OOP/Content/bin/Windows/Content/Sound/Explosion_Sound.xnb","SoundEffectProcessor","SoundEffectContent",103724,103785,0.15569
+"F:/ID-efender-OOP/ID-efender-OOP/Content/Spritesheet/Explosion.png","F:/ID-efender-OOP/ID-efender-OOP/Content/bin/Windows/Content/Spritesheet/Explosion.xnb","TextureProcessor","Texture2DContent",34637,758185,0.0539947
+"F:/ID-efender-OOP/ID-efender-OOP/Content/Turret/Turret0.png","F:/ID-efender-OOP/ID-efender-OOP/Content/bin/Windows/Content/Turret/Turret0.xnb","TextureProcessor","Texture2DContent",11522,25045,0.0149003
+"F:/ID-efender-OOP/ID-efender-OOP/Content/Turret/Turret1.png","F:/ID-efender-OOP/ID-efender-OOP/Content/bin/Windows/Content/Turret/Turret1.xnb","TextureProcessor","Texture2DContent",13190,26005,0.0105235
